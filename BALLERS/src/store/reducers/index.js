@@ -1,0 +1,3 @@
+export {
+    playerReducer
+} from './playerReducer'
